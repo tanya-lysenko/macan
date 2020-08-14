@@ -224,7 +224,7 @@ strong {}
     background-size: 160px 25px;
     text-indent: -9999px;
     text-align: center;
-    margin: 13px 0 13px 0px;
+    margin: 13px 0 13px 0;
 }
 
 .header-mobile #mobile-menu {
@@ -566,7 +566,6 @@ ul.portfolioFilter li {
     width: 100%;
 }
 .getmap-heading {
-    background: url(../images/slide2.jpg) no-repeat center center / cover;
     min-height: 400px;
     text-align: center;
     color: #fff;
@@ -811,7 +810,7 @@ ul.bxslider {
 .bx-wrapper .bx-pager {
     text-align: center;
     font-size: .85em;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     font-weight: bold;
     color: #666;
     padding-top: 20px;
@@ -857,7 +856,7 @@ ul.bxslider {
 
 .bx-wrapper .bx-prev {
     left: 10px;
-    background: url("../images/controls.png") no-repeat 0 -32px;
+    /*background: url("../images/controls.png") no-repeat 0 -32px;*/
 }
 
 .bx-wrapper .bx-prev:hover,
@@ -867,7 +866,7 @@ ul.bxslider {
 
 .bx-wrapper .bx-next {
     right: 10px;
-    background: url("../images/controls.png") no-repeat -43px -32px;
+    /*background: url("../images/controls.png") no-repeat -43px -32px;*/
 }
 
 .bx-wrapper .bx-next:hover,
@@ -901,7 +900,7 @@ ul.bxslider {
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url("../images/controls.png") -86px -11px no-repeat;
+    /*background: url("../images/controls.png") -86px -11px no-repeat;*/
     margin: 0 3px;
 }
 
@@ -917,7 +916,7 @@ ul.bxslider {
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url("../images/controls.png") -86px -44px no-repeat;
+    /*background: url("../images/controls.png") -86px -44px no-repeat;*/
     margin: 0 3px;
 }
 
@@ -950,7 +949,7 @@ ul.bxslider {
 
 .bx-wrapper .bx-caption span {
     color: #fff;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     display: block;
     font-size: .85em;
     padding: 10px;
@@ -1032,7 +1031,7 @@ ul.bxslider {
     .bxslider1-wrapper .bx-wrapper .bx-pager.bx-default-pager a {
         width: 20px;
         height: 20px;
-        margin: 0px 10px;
+        margin: 0 10px;
     }
     .rightside{
         width: 460px;
@@ -1073,7 +1072,7 @@ ul.bxslider {
 
     .portfolio {
         margin-top: 25px;
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
     .arrow {
@@ -1140,7 +1139,7 @@ ul.bxslider {
     .bxslider1-wrapper .bx-wrapper .bx-pager.bx-default-pager a {
         width: 20px;
         height: 20px;
-        margin: 0px 10px;
+        margin: 0 10px;
     }
 
 
@@ -1204,7 +1203,7 @@ ul.bxslider {
 
     .portfolio {
         margin-top: 25px;
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
     .arrow {
@@ -1292,7 +1291,7 @@ ul.bxslider {
     .bxslider1-wrapper .bx-wrapper .bx-pager.bx-default-pager a {
         width: 20px;
         height: 20px;
-        margin: 0px 10px;
+        margin: 0 10px;
     }
 
     .contact-blocks {
@@ -1362,7 +1361,7 @@ ul.bxslider {
 
     .portfolio {
         margin-top: 25px;
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
     .port-text h5 {
@@ -1458,7 +1457,7 @@ ul.bxslider {
     .bxslider1-wrapper .bx-wrapper .bx-pager.bx-default-pager a {
         width: 20px;
         height: 20px;
-        margin: 0px 10px;
+        margin: 0 10px;
     }
 
     .contact-blocks {
